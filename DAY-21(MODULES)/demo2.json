@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Python Basics",
+        "author": "John Doe",
+        "Price": 1499
+    },
+    {
+        "title": "Java Basics",
+        "author": "Srinidhi",
+        "Price": 599
+    },
+    {
+        "title": "HTML Basics",
+        "author": "Neha",
+        "Price": 699
+    },
+    {
+        "title": "MYSQL Basics",
+        "author": "Akhil",
+        "Price": 799
+    }
+]
